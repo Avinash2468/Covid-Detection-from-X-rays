@@ -25,3 +25,5 @@ Flattened the output ->
 Concatenated with the meta-data -> 
 Used custom classifier.
 
+**A detailed explanation of model and results is given in "Report_Results.pdf"**
+
