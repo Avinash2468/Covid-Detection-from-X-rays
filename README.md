@@ -4,6 +4,8 @@
 
 Pytorch
 
+### 
+
 ## Data Preprocessing
 
 * The original dataset has 930 images with around 66% of the images being covid positive.
@@ -11,6 +13,8 @@ Pytorch
 * After cleaning up the data (detailed explanation is given in the comments of the code), I was left with 668 images which I split into a training set (90%) and validation/testing set (10%).
 
 ## Model Used
+
+[Model Used](./Model.png)
 
 In order to account for meta-data such as age, gender, view position, I designed my own classifier.
 
