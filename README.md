@@ -14,7 +14,7 @@ Pytorch
 
 ## Model Used
 
-[Model Used](./Model.png)
+![Model Used](./Model.png)
 
 In order to account for meta-data such as age, gender, view position, I designed my own classifier.
 
